@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/javagaming/sage"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-android.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-android-natives-android-aarch64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-android-natives-android-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-android-natives-linux-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-android-natives-linux-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-android-natives-linux-armv6hf.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-android-natives-linux-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-android-natives-macosx-universal.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-android-natives-solaris-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-android-natives-solaris-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-android-natives-windows-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-android-natives-windows-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-natives-android-aarch64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-natives-android-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-natives-linux-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-natives-linux-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-natives-linux-armv6hf.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-natives-linux-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-natives-macosx-universal.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-natives-solaris-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-natives-solaris-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-rt-natives-windows-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/gluegen-test-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-android.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-android-natives-android-aarch64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-android-natives-android-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-android-natives-linux-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-android-natives-linux-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-android-natives-linux-armv6hf.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-android-natives-linux-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-android-natives-macosx-universal.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-android-natives-solaris-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-android-natives-solaris-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-android-natives-windows-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-android-natives-windows-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-natives-android-aarch64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-natives-android-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-natives-linux-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-natives-linux-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-natives-linux-armv6hf.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-natives-linux-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-natives-macosx-universal.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-natives-solaris-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-natives-solaris-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-natives-windows-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-natives-windows-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-test.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/joal-test-android.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-android.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-android-natives-android-aarch64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-android-natives-android-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-android-natives-linux-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-android-natives-linux-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-android-natives-linux-armv6hf.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-android-natives-linux-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-android-natives-macosx-universal.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-android-natives-solaris-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-android-natives-solaris-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-android-natives-windows-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-android-natives-windows-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-natives-android-aarch64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-natives-android-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-natives-linux-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-natives-linux-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-natives-linux-armv6hf.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-natives-linux-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-natives-macosx-universal.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-natives-solaris-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-natives-solaris-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-natives-windows-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-natives-windows-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-test.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jocl-test-android.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-android.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-android-natives-android-aarch64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-android-natives-android-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-android-natives-linux-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-android-natives-linux-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-android-natives-linux-armv6hf.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-android-natives-linux-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-android-natives-macosx-universal.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-android-natives-solaris-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-android-natives-solaris-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-android-natives-windows-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-android-natives-windows-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-mobile.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-mobile-natives-android-aarch64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-mobile-natives-android-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-mobile-natives-linux-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-mobile-natives-linux-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-mobile-natives-linux-armv6hf.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-mobile-natives-linux-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-mobile-natives-macosx-universal.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-mobile-natives-solaris-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-mobile-natives-solaris-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-mobile-natives-windows-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-mobile-natives-windows-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-natives-android-aarch64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-natives-android-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-natives-linux-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-natives-linux-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-natives-linux-armv6hf.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-natives-linux-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-natives-macosx-universal.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-natives-solaris-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-natives-solaris-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-natives-windows-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-noawt.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-noawt-natives-android-aarch64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-noawt-natives-android-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-noawt-natives-linux-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-noawt-natives-linux-armv6.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-noawt-natives-linux-armv6hf.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-noawt-natives-linux-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-noawt-natives-macosx-universal.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-noawt-natives-solaris-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-noawt-natives-solaris-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-noawt-natives-windows-amd64.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-all-noawt-natives-windows-i586.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-test.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jogl/jogl-test-android.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/graphicslib3D/graphicslib3D.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/javagaming/graphicslib3D/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jbullet/jbullet.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/jinput/jinput.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/javagaming/jinput/javadoc/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/javagaming/jinput/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/luaj/luaj-jme-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/luaj/luaj-jse-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/luaj/luaj-sources-3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/ode4j/core-0.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/sage/sage.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/javagaming/sage/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/sage/sagetest.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/javagaming/vecmath/vecmath.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
